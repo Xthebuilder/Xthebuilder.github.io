@@ -1,0 +1,67 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Dark mode theme */
+body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    border-bottom-color: #3498db;
+}
+
+/* Links */
+a {
+    color: #3498db;
+}
+
+a:hover {
+    color: #5dade2;
+}
+
+/* Code blocks */
+code {
+    background-color: #2d2d2d;
+    color: #f8f8f2;
+    border: 1px solid #444;
+}
+
+pre {
+    background-color: #2d2d2d;
+    border: 1px solid #444;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left-color: #3498db;
+    color: #b0b0b0;
+}
+
+/* Tables */
+table {
+    border-color: #444;
+}
+
+th {
+    background-color: #2d2d2d;
+    color: #ffffff;
+}
+
+td {
+    border-color: #444;
+}
+
+/* Page header/footer */
+.page-header {
+    background-color: #0d1117;
+    background-image: linear-gradient(120deg, #0d1117, #1a1a1a);
+}
+
+.main-content {
+    color: #e0e0e0;
+}
