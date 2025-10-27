@@ -1,11 +1,11 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Xavier Martin - Cybersecurity Portfolio
 ---
 
-# Welcome
+# Xavier Martin
 
-I'm Xavier, a cybersecurity and data science enthusiast building practical skills through hands-on projects.
+Cybersecurity and data science enthusiast building practical skills through hands-on projects.
 
 ## Current Projects
 
@@ -32,7 +32,7 @@ Running production services 24/7:
 
 ## About My Journey
 
-I'm taking a strategic approach to tech:
+Strategic approach to tech:
 1. Community college for CS fundamentals
 2. Transfer to HBCU for cybersecurity specialization  
 3. Self-taught data science applied to security projects
@@ -40,4 +40,4 @@ I'm taking a strategic approach to tech:
 
 ---
 
-[View my GitHub](https://github.com/Xthebuilder) | [Contact me](mailto:cmartin.xavier@yahoo.com)
+[GitHub](https://github.com/Xthebuilder) | [Email](mailto:cmartin.xavier@yahoo.com)
