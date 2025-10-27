@@ -7,6 +7,16 @@ title: Xavier Martin - Cybersecurity Portfolio
 
 Cybersecurity and data science enthusiast building practical skills through hands-on projects.
 
+## Recent Posts
+
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
+
+[View all posts →](/archive.html)
+
+---
+
 ## Current Projects
 
 ### Network Security Analysis with Pi-hole
