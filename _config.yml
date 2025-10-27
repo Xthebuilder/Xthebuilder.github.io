@@ -8,7 +8,3 @@ github_username: Xthebuilder
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# Custom CSS
-sass:
-  style: compressed
