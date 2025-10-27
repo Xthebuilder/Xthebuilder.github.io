@@ -1,6 +1,6 @@
 title: Xavier Martin - Cybersecurity Portfolio
 description: Documenting my journey in cybersecurity and data science
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 author: Xavier Martin
 email: cmartin.xavier@yahoo.com
 github_username: Xthebuilder
