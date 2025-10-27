@@ -1,0 +1,10 @@
+title: Xavier Martin - Cybersecurity Portfolio
+description: Documenting my journey in cybersecurity and data science
+theme: minima
+author: Xavier Martin
+email: cmartin.xavier@yahoo.com
+github_username: Xthebuilder
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
