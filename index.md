@@ -50,4 +50,17 @@ Strategic approach to tech:
 
 ---
 
+## Stay Updated
+
+Get notified about new projects and blog posts:
+
+<form action="https://formsubmit.co/cmartin.xavier@yahoo.com" method="POST">
+  <input type="email" name="email" placeholder="your@email.com" required>
+  <input type="hidden" name="_subject" value="New subscription from xthebuilder.github.io">
+  <input type="hidden" name="_captcha" value="false">
+  <button type="submit">Subscribe</button>
+</form>
+
+---
+
 [GitHub](https://github.com/Xthebuilder) | [Email](mailto:cmartin.xavier@yahoo.com)
