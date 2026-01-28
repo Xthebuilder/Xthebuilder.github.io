@@ -5,10 +5,15 @@ export default function Footer() {
     <footer className="py-8 px-6 border-t border-cyber-border">
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-          {/* Copyright */}
-          <p className="font-mono text-sm text-cyber-muted">
-            © {currentYear} Xavier Martin Cofield
-          </p>
+          {/* Copyright & Name Link */}
+          <div className="flex flex-col items-center md:items-start gap-2">
+            <p className="font-mono text-sm text-cyber-muted">
+              © {currentYear} <a href="https://xthebuilder.github.io" className="text-neon-cyan hover:text-neon-green transition-colors">Xavier Martin Cofield</a>
+            </p>
+            <p className="font-mono text-xs text-cyber-muted">
+              Python Developer • AI Systems • Backend Engineering
+            </p>
+          </div>
 
           {/* Built with */}
           <p className="font-mono text-xs text-cyber-muted">

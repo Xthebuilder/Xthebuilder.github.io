@@ -163,8 +163,13 @@ export default function Blog() {
     <section id="blog" className="section px-6">
       <div className="max-w-4xl mx-auto">
         <h2 className="section-title">
-          <span>//</span> Blog
+          <span>//</span> Blog by Xavier Martin Cofield
         </h2>
+        
+        <p className="text-cyber-muted max-w-2xl mx-auto mb-12 text-center leading-relaxed">
+          Insights and technical articles by <strong>Xavier Martin Cofield</strong> on Python development, 
+          AI systems, automation, and software engineering best practices.
+        </p>
 
         <div className="space-y-6">
           {blogPosts.map((post) => (

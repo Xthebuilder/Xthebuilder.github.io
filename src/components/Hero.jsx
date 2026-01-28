@@ -35,18 +35,24 @@ export default function Hero() {
         </h1>
 
         {/* Subtitle */}
-        <p className="font-mono text-lg md:text-xl text-cyber-muted mb-8 animate-slide-up opacity-0 delay-300">
+        <h2 className="font-mono text-lg md:text-xl text-cyber-muted mb-8 animate-slide-up opacity-0 delay-300">
           <span className="text-neon-cyan">Python Developer</span>
           <span className="mx-3 text-cyber-border">·</span>
-          <span className="text-neon-green">Automation</span>
+          <span className="text-neon-green">Automation Specialist</span>
           <span className="mx-3 text-cyber-border">·</span>
-          <span className="text-neon-magenta">AI Systems</span>
-        </p>
+          <span className="text-neon-magenta">AI Systems Engineer</span>
+        </h2>
 
-        {/* Description */}
-        <p className="text-cyber-muted max-w-2xl mx-auto mb-10 leading-relaxed animate-slide-up opacity-0 delay-400">
-          Building reliable backend systems, intelligent automation, and AI-powered agents 
-          with clean architecture and thorough documentation.
+        {/* SEO-optimized Description */}
+        <p className="text-cyber-muted max-w-2xl mx-auto mb-6 leading-relaxed animate-slide-up opacity-0 delay-400">
+          Hi, I'm <strong>Xavier Martin Cofield</strong>, a dedicated Python developer with expertise in 
+          building reliable backend systems, intelligent automation pipelines, and AI-powered agents. 
+          I specialize in creating robust software solutions with clean architecture and comprehensive documentation.
+        </p>
+        
+        <p className="text-cyber-muted max-w-2xl mx-auto mb-10 leading-relaxed animate-slide-up opacity-0 delay-500">
+          From automation tools that streamline complex workflows to AI systems that augment human capabilities, 
+          I focus on delivering maintainable code that solves real-world problems.
         </p>
 
         {/* CTA Button */}

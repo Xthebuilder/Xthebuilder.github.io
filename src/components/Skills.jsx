@@ -47,8 +47,13 @@ export default function Skills() {
     <section id="skills" className="section px-6">
       <div className="max-w-4xl mx-auto">
         <h2 className="section-title">
-          <span>//</span> Skills
+          <span>//</span> Xavier Martin Cofield's Technical Skills
         </h2>
+        
+        <p className="text-cyber-muted max-w-2xl mx-auto mb-12 text-center leading-relaxed">
+          Xavier Martin Cofield's technical expertise spans Python development, backend systems, AI automation, 
+          and DevOps. These core competencies enable the creation of robust, scalable software solutions.
+        </p>
 
         <div className="grid sm:grid-cols-2 gap-6">
           {skillGroups.map((group) => {

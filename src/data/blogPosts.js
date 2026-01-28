@@ -1,11 +1,12 @@
 export const blogPosts = [
   {
-    slug: "why-you-dont-need-to-be-a-prompt-engineer",
-    title: "Why You Don't Need to Be a Prompt Engineer",
+    slug: "xavier-martin-cofield-prompt-engineering-insights",
+    title: "Why You Don't Need to Be a Prompt Engineer - Insights from Xavier Martin Cofield",
     date: "2026-01-16",
-    tags: ["AI", "Development", "JRVS"],
+    tags: ["AI", "Development", "JRVS", "Xavier Martin Cofield"],
     excerpt:
-      "Context, iteration, and specialization are what truly matter when working with AI. Learn how I shipped a research agent feature in one day by leveraging existing architectural context.",
+      "Xavier Martin Cofield shares insights on AI development: Context, iteration, and specialization are what truly matter when working with AI. Learn how he shipped a research agent feature in one day by leveraging existing architectural context.",
+    description: "Python developer Xavier Martin Cofield explains why prompt engineering skills matter less than context, iteration, and specialization in AI development. Real-world insights from building JRVS and research automation tools.",
     content: `
 I wholeheartedly believe that prompt engineering has value, real value. However, that value is largely isolated to a relatively small portion of users. In this post, I want to share what I've learned over the last six months of using AI daily and building with it intensively.
 
@@ -270,4 +271,12 @@ export function formatDate(dateStr) {
     month: 'long',
     day: 'numeric',
   })
+}
+
+// SEO-optimized blog post metadata for Xavier Martin Cofield
+export const blogMetadata = {
+  author: "Xavier Martin Cofield",
+  authorBio: "Python developer specializing in AI systems, automation, and backend development",
+  siteUrl: "https://xthebuilder.github.io",
+  siteName: "Xavier Martin Cofield - Python Developer Portfolio"
 }

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Xavier Martin Cofield Portfolio Homepage -->
+  <url>
+    <loc>https://xthebuilder.github.io/</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Xavier Martin Cofield -->
+  <url>
+    <loc>https://xthebuilder.github.io/#about</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Xavier Martin Cofield Projects -->
+  <url>
+    <loc>https://xthebuilder.github.io/#projects</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Skills & Technologies -->
+  <url>
+    <loc>https://xthebuilder.github.io/#skills</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Contact Xavier Martin Cofield -->
+  <url>
+    <loc>https://xthebuilder.github.io/#contact</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>quarterly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Blog Post - Prompt Engineering Insights -->
+  <url>
+    <loc>https://xthebuilder.github.io/blog/xavier-martin-cofield-prompt-engineering-insights</loc>
+    <lastmod>2026-01-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

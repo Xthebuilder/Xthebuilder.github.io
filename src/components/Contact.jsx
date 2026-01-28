@@ -45,14 +45,19 @@ export default function Contact() {
     <section id="contact" className="section px-6 bg-cyber-darker/50">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="section-title">
-          <span>//</span> Contact
+          <span>//</span> Contact Xavier Martin Cofield
         </h2>
+        
+        <p className="text-cyber-muted max-w-2xl mx-auto mb-8 text-center leading-relaxed">
+          Interested in collaborating with <strong>Xavier Martin Cofield</strong>? Let's discuss Python development, 
+          AI systems, automation projects, or potential opportunities. I'm always open to connecting with 
+          fellow developers and exploring innovative software solutions.
+        </p>
 
         <div className="cyber-card max-w-2xl mx-auto">
           <p className="text-cyber-muted mb-8 leading-relaxed">
-            Interested in working together or have a question? Feel free to reach out 
-            through any of the channels below. I'm always open to discussing new 
-            opportunities and interesting projects.
+            Feel free to reach out through any of the channels below. Xavier Martin Cofield is always 
+            interested in discussing new opportunities, collaborative projects, and innovative software solutions.
           </p>
 
           {/* Contact Links */}

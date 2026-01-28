@@ -36,8 +36,13 @@ export default function Projects() {
     <section id="projects" className="section px-6 bg-cyber-darker/50">
       <div className="max-w-6xl mx-auto">
         <h2 className="section-title">
-          <span>//</span> Projects
+          <span>//</span> Featured Projects by Xavier Martin Cofield
         </h2>
+        
+        <p className="text-cyber-muted max-w-3xl mx-auto mb-12 text-center leading-relaxed">
+          Explore Xavier Martin Cofield's portfolio of Python development projects, featuring AI agents, 
+          automation tools, and backend systems designed with clean architecture and comprehensive documentation.
+        </p>
 
         <div className="grid md:grid-cols-2 gap-6">
           {projects.map((project) => (

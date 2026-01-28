@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Xavier Martin Cofield Portfolio - SEO Optimization
+Sitemap: https://xthebuilder.github.io/sitemap.xml
